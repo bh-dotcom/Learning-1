@@ -2,7 +2,7 @@
 # Server Stats Script
 
 Public Repository URL:
-https://roadmap.sh/projects/server-stats
+https://server-stats.sh/projects/Learning-1
 
 
 ## Description
