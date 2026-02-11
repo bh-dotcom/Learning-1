@@ -2,7 +2,7 @@
 # Server Stats Script
 
 Public Repository URL:
-https://server-stats.sh/bh-dotcom/Learning-1
+https://server-stats.sh/Learning-1/server-stats
 
 
 ## Description
