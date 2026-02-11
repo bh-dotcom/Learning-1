@@ -2,7 +2,7 @@
 # Server Stats Script
 
 Public Repository URL:
-https://github.com/bh-dotcom/Learning-1/projects?query=is%3Aopen
+https://github.com/bh-dotcom/Learning-1.git
 
 ## Description
 This script analyzes basic Linux server performance statistics including:
