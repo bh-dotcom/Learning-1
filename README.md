@@ -1,1 +1,1 @@
-https://github.com/bh-dotcom/Learning-1
+https://github.com/bh-dotcom/Learning-1.git
