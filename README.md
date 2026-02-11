@@ -2,7 +2,7 @@
 # Server Stats Script
 
 Public Repository URL:
-https://bh-dotcom.github.io/Learning-1/
+https://roadmap.sh/projects/server-stats
 
 
 ## Description
